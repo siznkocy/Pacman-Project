@@ -1,5 +1,5 @@
 # Pacman-Project
-This is my first C++ project. This project is a pacman game similar to the original game.The how to "play" instructions are displayed on the game window(right side of the screen and score once you eat the corns). 
+This is my first C++ project. A basic pacman game. 
 
 To develop I used. 
    - C++ language.
