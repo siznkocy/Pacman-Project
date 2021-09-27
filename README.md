@@ -8,12 +8,25 @@ To develop I used.
    - and Youtube 😁.
 The game control pacman scritly used up, down, left and right keys from your keyboard. 
 
+**First window screen**
+it consist of: 
+ - **how to play** instructions.
+ - The nature of the game. 
+ - and how to exit the game.
+
+![image](https://user-images.githubusercontent.com/78805923/134940342-a860b8dd-ba0a-46aa-8b8d-279f3c60e523.png)
+
+
+**Second window screen**
+- Game play window looks like that.
+- it has the score.
+- and how to terminate the game.
+
+![image](https://user-images.githubusercontent.com/78805923/134941052-ed5d044d-6412-4c01-be69-d50b4c861db1.png)
+
+
 NB: However the are bugs with regards to the game the player (pacman) and game ghots doesn't collide with the prink walls.  
     unlike the conversional game the ghots are blind to the player (They can't track the player they just move arbitrary).
-    Laslty they are no levels, THIS game is just a basic game.
-
-
-
-![image](https://user-images.githubusercontent.com/78805923/134913350-04e9b4a4-40a8-4d7e-87ef-de59517d68b8.png)
-
-
+    Laslty they are no levels, THIS game is just a basic game. 
+    
+   
