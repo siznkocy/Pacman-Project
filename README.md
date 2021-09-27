@@ -11,3 +11,9 @@ The game control pacman scritly used up, down, left and right keys from your key
 NB: However the are bugs with regards to the game the player (pacman) and game ghots doesn't collide with the prink walls.  
     unlike the conversional game the ghots are blind to the player (They can't track the player they just move arbitrary).
     Laslty they are no levels, THIS game is just a basic game.
+
+
+
+![image](https://user-images.githubusercontent.com/78805923/134913350-04e9b4a4-40a8-4d7e-87ef-de59517d68b8.png)
+
+
