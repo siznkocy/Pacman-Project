@@ -35,4 +35,7 @@ NB: However the are bugs with regards to the game the player (pacman) and game g
     unlike the conversional game the ghots are blind to the player (They can't track the player they just move arbitrary).
     Laslty they are no levels, THIS game is just a basic game. 
     
+    
+    **To Run the game**
+    
    
